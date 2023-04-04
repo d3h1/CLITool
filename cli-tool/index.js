@@ -1,5 +1,6 @@
 #!/usr/bin/env node
 
+// Imports needed to make this work
 import chalk from 'chalk';
 import inquirer from 'inquirer';
 import gradient from 'gradient-string';
